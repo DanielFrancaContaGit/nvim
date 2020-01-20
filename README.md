@@ -1,3 +1,7 @@
+# Requisitos
+- Node
+- Python3 e pacote do neovim (pip3 install neovim)
+
 # Configuração do NVIM e plugins
 
 1 - Instale a versão mais recente:
